@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - Mukul was here
 - Hello, Arpit Sharma was here.
 - MERA PHELA CONTRIBUTION 
@@ -27,6 +27,7 @@ did it different
 - Hello, I am Ahmad Naji from Malaysia.
 - [All the World's a Stage](https://github.com/Oolazile)
 - Hello, I am Abdul Wahab
+- Hooi Hoooi Hoooooiiii ....🐑 This is Arun Raj K T from Kozhikode,Kerala,India.I was here for the first contribution...Check me out at {https://github.com/ARUNRAJKT}
 - Hi, It's me Anjali from Nepal.
 - Hello, I am Celine Mang! (https://github.com/celinemang )
 - Hello, I am Camilo Velez
@@ -49,6 +50,7 @@ did it different
 - hello, I'm samita kc
 -hello,I'm Nitesh Tachamo.
 - Hi, I'm Venu
+- Hi, Fabio Lima was here!
 -hello, I'm Hardik Gayner from India
 -Hello, I am Kevinnash! [My profile](https://github.com/Nash-creator)
 - HI there!, I am Sanidhya! ((https://github.com/Sanidhyafeaturist)
@@ -70,6 +72,7 @@ did it different
 - Hello, my name is Matthew and my GH is (https://github.com/mattwheeler-dev)
 - Hello, I am kevin Martinez 
 - Hi, I am Keszőcze László
+- Greetings, I am Milan Ramautarsing and would love to collaborate with you so reach out (https://github.com/Dragon01000)
 - Hello, I am Sanju from Nepal
 - [Jyotsna Dontireddy](https://github.com/Jyotsna-D)
 - Salam, I'm Syed Umar Shah
@@ -403,7 +406,8 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 -Hello, this Kassem's first open source contribution, and hopefully not last!
 Hiiii everyone.... my name is Precious and this is my first open source contribution. I am so excited and proud to be doing this.
 -SummerInDecember was here
--Hello I am Omar. I am making this contribution as practice. 
+-Hello I am Omar. I am making this contribution as practice.
+-Hi I'm Nour , this is my first contribution , I've done some mistakes , tried to fix it , learnt from it , I guess I fixed it...so excited to hop on this journey.
 -Hi everyone, Im contibutig to opensorce for the first time.
 -Hi their, i am Harpreet from Bharat 🙏
 -[Vijayan K S](https://github.com/ksvijayan06) **If you are reading this, Remember, I'll always Love You🫵. This contribution made for the Octoberfest 2024 event. If you want to join with for the Open Source Contribution follow me on github😘**
@@ -9305,5 +9309,6 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I am [Alex](https://github.com/alexlee39), trying to develop my coding skills through open-sourcing and projects
 - Hi, I'm Gakuto, hope you guys enjoy coding!
 - Hi, I am Krish Gupta. This is my first contribution, and from now on, I am eager to contribute more to open-source projects.
+- BT
 - Hi, This is Kailash Sundaramurthy from Chennai, Tamilnadu, India, making my 1st contribution.
 - Hello, My name is Akash (sky-39).
